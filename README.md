@@ -32,9 +32,19 @@
 ---
 
 ### 📌 Featured Projects
-- 🛒 **E-Commerce React App**
-- 🔐 **Authentication System**
-- 📊 **Dashboard Application**
+
+- 🛒 **E-Commerce React App**  
+  Full-featured e-commerce application with cart, authentication, and API integration.
+
+- 🔐 **Authentication System**  
+  Role-based authentication & authorization using modern React patterns.
+
+- 📊 **Dashboard Application**  
+  Admin dashboard with charts, data management, and responsive layout.
+
+- 📰 **News Application (Freelance Project)**  
+  Real-world freelance project consuming external news APIs with dynamic filtering and pagination.
+
 
 ---
 
