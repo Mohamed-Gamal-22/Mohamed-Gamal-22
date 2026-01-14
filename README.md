@@ -39,5 +39,5 @@
 ---
 
 ### 🤝 Connect With Me
-- 💼 LinkedIn: https://linkedin.com/in/your-link
+- 💼 LinkedIn: https://www.linkedin.com/in/mohamed-gamal-2949a718b/
 - 💻 GitHub: https://github.com/Mohamed-Gamal-22
