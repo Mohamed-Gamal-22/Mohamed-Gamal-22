@@ -1,16 +1,30 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Mohamed Gamal</h1>
+<h3 align="center">Front-End Developer | React.js Instructor</h3>
 
-<!--
-**Mohamed-Gamal-22/Mohamed-Gamal-22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 💻 Front-End Developer specialized in React.js
+- 🎓 Front-End Development Instructor
+- 🧠 Passionate about clean code & best practices
+- 📍 Based in Egypt
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,git,github" />
+</p>
+
+---
+
+### 📌 Featured Projects
+- 🛒 **E-Commerce React App**
+- 🔐 **Authentication System**
+- 📊 **Dashboard Application**
+
+---
+
+### 🤝 Connect With Me
+- 💼 LinkedIn: https://linkedin.com/in/your-link
+- 💻 GitHub: https://github.com/Mohamed-Gamal-22
