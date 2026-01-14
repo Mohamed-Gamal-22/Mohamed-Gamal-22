@@ -12,9 +12,27 @@
 ---
 
 ### 🛠 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,git,github" />
-</p>
+
+- HTML5  
+- CSS3
+- SCSS
+- JavaScript (ES6+)
+- Ajax & JSON
+- Typescript
+- JQuery  
+- React.js
+- React-hook-form & Zod & Yup & Formik
+- Next js
+- Next Auth
+- React Router DOM  
+- Context API
+- React-query
+- Redux-toolkit
+- Bootstrap
+- Tailwindcss 
+- Axios  
+- Git & GitHub  
+
 
 ---
 
