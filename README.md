@@ -4,7 +4,7 @@
 ---
 
 ### 🚀 About Me
-- 💻 Front-End Developer specialized in React.js
+- 💻 Front-End Developer specialized in React.js & Next.js
 - 🎓 Front-End Development Instructor
 - 🧠 Passionate about clean code & best practices
 - 📍 Based in Egypt
